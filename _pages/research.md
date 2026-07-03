@@ -7,11 +7,11 @@ author_profile: false
 
 Here is a simple list of my articles:
 
-## Published Papers
+<!--## Published Papers
 
 * **He, Y.**, Smith, J., & Doe, A. (2025). "An Elegant Approach to Data." *Journal of Logic*, 45(2), 123-145.
-* Johnson, M., & **He, Y.** (2024). "On the Stability of Layouts." *Conference on Computer Science*, 12-18.
+* Johnson, M., & **He, Y.** (2024). "On the Stability of Layouts." *Conference on Computer Science*, 12-18.-->
 
-## Working Papers
+## In preparation
 
-* **He, Y.** "A Clean Approach to Static Site Generation." *Under review*.
+* **Sum-Product Phenomenon Via Dimension** with Sergei Starchenko
