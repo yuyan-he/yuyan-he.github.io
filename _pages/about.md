@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Yuyan He"
 author_profile: false
