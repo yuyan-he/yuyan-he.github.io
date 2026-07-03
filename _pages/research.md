@@ -14,4 +14,4 @@ Here is a simple list of my articles:
 
 ## In preparation
 
-* *<span style="color: #360217;">**Sum-Product Phenomenon via Dimension**</span> with Sergei Starchenko
+* <span style="color: #4F0322;">**Sum-Product Phenomenon via Dimension**</span> with Sergei Starchenko
