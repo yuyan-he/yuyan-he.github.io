@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![Myself](/images/profile.png){: .align-left width="300px"}
-I am a fourth year PhD. student at University of Notre Dame, working with <a href="https://math.nd.edu/people/faculty/sergei-starchenko/" style="color: inherit; text-decoration: none;">Sergei Starchenko</a>.
+I am a fourth year PhD. student at University of Notre Dame, working with [Sergei Starchenko](https://math.nd.edu/people/faculty/sergei-starchenko/)
 
 My research interests lies in model theory, and particularly its interaction with combinatorics. 
 
