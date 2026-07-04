@@ -3,6 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
+title_hide: true
 ---
 
 <div style="font-size: 16px;" markdown="1">
