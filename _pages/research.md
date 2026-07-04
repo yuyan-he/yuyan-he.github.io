@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-<div style="font-size: 16px;">
+<div style="font-size: 16px;" markdown="1">
 <!--## Published Papers
 * **He, Y.**, Smith, J., & Doe, A. (2025). "An Elegant Approach to Data." *Journal of Logic*, 45(2), 123-145.
 * Johnson, M., & **He, Y.** (2024). "On the Stability of Layouts." *Conference on Computer Science*, 12-18.-->
