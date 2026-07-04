@@ -9,10 +9,8 @@ redirect_from:
 ---
 ![Myself](/images/profile.png){: .align-left width="300px"}
 I am a fourth year PhD. student at University of Notre Dame, working with Sergei Starchenko.
-
 My research interests lies in model theory, and particularly its interaction with combinatorics. 
-
-Email:yhe27@nd.edu
+Email:yhe27 [at] nd [dot] edu
 
 
 
