@@ -11,11 +11,11 @@ author_profile: false
 
 ## Articles
 
-* <span style="color: #2CA39E;">*Sum-Product Phenomenon via Dimension*</span> with Sergei Starchenko
+* <span style="color: #A32C5C;">*Sum-Product Phenomenon via Dimension*</span> with Sergei Starchenko
   
 ## Talks and Workshops
-* *Graduate Workshop in Logic and Combinatorics*(), hosted by <a href="https://sites.google.com/uic.edu/carolineterry" style="color: #2CA39E;">Caroline Terry</a> (August 2026)
-* <span style="color: #2CA39E;">*Sum-Product Phenomenon via Dimension*</span>
+* <a href="https://sites.google.com/view/gwlc/home" style="color: #A32C5C;">*Graduate Workshop in Logic and Combinatorics*</a>, hosted by <a href="https://sites.google.com/uic.edu/carolineterry" style="color: #A32C5C;">Caroline Terry</a> (August 2026)
+* <span style="color: #A32C5C;">*Sum-Product Phenomenon via Dimension*</span>
   * ASL North American Meeting (special session in Model-Theoretic Algebra in memory of Zoé Chatzidakis, July 2026)
   * University of Maryland, College Park(Logic Seminar, Feb 2026)
     
