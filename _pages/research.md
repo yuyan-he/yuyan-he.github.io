@@ -15,4 +15,4 @@ author_profile: false
 * <span style="color: #2CA39E;">*Sum-Product Phenomenon via Dimension*</span> with Sergei Starchenko
   
 ## <span style="color: #2CA39E;">Talks and Workshops</span>
-* [*Graduate Workshop in Logic and Combinatorics*](https://sites.google.com/view/gwlc/home), hosted by Caroline Terry (August 2026)  
+* *Graduate Workshop in Logic and Combinatorics*(), hosted by Caroline Terry (August 2026)  
