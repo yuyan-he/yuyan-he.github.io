@@ -11,7 +11,7 @@ author_profile: false
 
 ## Articles
 
-* <span style="color: #A32C5C;">*Sum-Product Phenomenon via Dimension*</span> with Sergei Starchenko
+* <a href="https://arxiv.org/abs/2607.03384" style="color: #A32C5C;">*Sum-Product Phenomenon via Dimension*</a> with Sergei Starchenko，
   
 ## Talks and Workshops
 * <a href="https://sites.google.com/view/gwlc/home" style="color: #A32C5C;">*Graduate Workshop in Logic and Combinatorics*</a>, hosted by <a href="https://sites.google.com/uic.edu/carolineterry" style="color: #A32C5C;">Caroline Terry</a> (August 2026)
