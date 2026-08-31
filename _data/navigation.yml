@@ -11,11 +11,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Fun Stuff"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+  - title: "Fun Stuff"
+    url: /talks/       
     
   #- title: "Portfolio"
   #  url: /portfolio/
