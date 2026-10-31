@@ -10,7 +10,7 @@ author_profile: false
 * Johnson, M., & **He, Y.** (2024). "On the Stability of Layouts." *Conference on Computer Science*, 12-18.-->
 
 ## Articles
-* <a href="https://arxiv.org/abs/2609.01230v1" style="color: #A32C5C;">*The Composition Lemma for $n$-dependence*</a> with Artem Chernikov,
+* <a href="https://arxiv.org/abs/2609.01230v1" style="color: #A32C5C;">*The Composition Lemma for \(n\)-dependence*</a> with Artem Chernikov,
 * <a href="https://arxiv.org/abs/2607.03384" style="color: #A32C5C;">*Sum-Product Phenomenon via Dimension*</a> with Sergei Starchenko，
   
   
