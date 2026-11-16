@@ -14,7 +14,8 @@ My research interests lies in model theory, and particularly its interaction wit
 
 Email:yhe27 [at] nd [dot] edu
 
-[CV](/assets/He_Yuyan_CV(10).pdf)
+[CV](/assets/He_Yuyan_CV,10.pdf)
+
 
 
 
